@@ -1,0 +1,3 @@
+This is an AspectJ project that you can import into Eclipse. You will need the plugin http://www.eclipse.org/ajdt/. You can find tutorials. 
+After you import you can run the analysis by Running the src/TrackExecution.aj aspect. This project also contains the JHotDraw source which is tested.
+The files you need to submit are in the deliverable folder.
